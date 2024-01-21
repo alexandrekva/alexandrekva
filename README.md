@@ -1,5 +1,5 @@
 <h1>Sobre Mim</h1>
-<p>Me chamo Alexandre e sou estudante do curso de engenharia de software! Atualmente estou trabalhando como desenvolvedor na Ford.</p>
+<p>Me chamo Alexandre e sou estudante do curso de engenharia de software! Atualmente estou trabalhando como desenvolvedor Android na NTT Data - Itaú</p>
 
 <h1>Experiências</h1>
 <p>Atualmente estou trabalhando desenvolvendo para o Android Nativo, mas também tive experiências com o desenvolvimento WEB, utilizando React.
